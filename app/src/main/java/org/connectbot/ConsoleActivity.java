@@ -796,7 +796,7 @@ public class ConsoleActivity extends AppCompatActivity implements BridgeDisconne
 	private void configureOrientation() {
 		String rotateDefault;
 		if (getResources().getConfiguration().keyboard == Configuration.KEYBOARD_NOKEYS)
-			rotateDefault = PreferenceConstants.ROTATION_PORTRAIT;
+			rotateDefault = PreferenceConstants.ROTATION_DEFAULT;
 		else
 			rotateDefault = PreferenceConstants.ROTATION_LANDSCAPE;
 
