@@ -64,7 +64,7 @@ import de.mud.terminal.vt320;
 public class TerminalBridge implements VDUDisplay {
 	public final static String TAG = "CB.TerminalBridge";
 
-	private final static int DEFAULT_FONT_SIZE_DP = 10;
+	private final static int DEFAULT_FONT_SIZE_DP = 18;
 	private final static int FONT_SIZE_STEP = 2;
 	private float displayDensity;
 	private float systemFontScale;

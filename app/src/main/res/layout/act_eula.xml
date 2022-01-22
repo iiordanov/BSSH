@@ -33,7 +33,7 @@
 		<TextView
 			android:layout_width="fill_parent"
 			android:layout_height="wrap_content"
-			android:text="ConnectBot is a simple, powerful, open-source Secure Shell (SSH) client for your Android device."
+			android:text="BSSH is a simple, powerful, open-source Secure Shell (SSH) client for your Android device."
 			android:textAppearance="?android:attr/textAppearanceMedium"
 			/>
 

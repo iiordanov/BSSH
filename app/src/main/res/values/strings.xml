@@ -529,7 +529,7 @@
 	<string name="menu_colors_reset">"Reset"</string>
 
 	<!-- Displayed in the notification bar that connections are active -->
-	<string name="app_is_running">"ConnectBot is running"</string>
+	<string name="app_is_running">"BSSH is running"</string>
 
 	<string name="color_red">"red"</string>
 	<string name="color_green">"green"</string>
